@@ -2,6 +2,9 @@
 Implementation of Tic Tac Toe game using Socket Programming in JAVA
 
 ### How to run
+>Download and install IntelliJ IDE.
+>Download and install JavaFX Library Set.
+>Add the JavaFx libraries to your respective project before you run the project.
 
 >To run the game on one computer get the IP address of your computer.
 #### For the server
