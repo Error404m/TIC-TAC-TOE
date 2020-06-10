@@ -1,5 +1,5 @@
 # TIC-TAC-TOE
-OOM PROJECT
+Implementation of Tic Tac Toe game using Socket Programming in JAVA
 
 ### How to run
 
